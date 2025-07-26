@@ -40,7 +40,7 @@ This repository contains 10 different React projects, each demonstrating specifi
 - **JavaScript (ES6+)** - Modern JavaScript features
 - **HTML5 & CSS3** - Markup and styling
 - **Node.js** - JavaScript runtime environment
-- **npm/yarn** - Package management
+- **npm** - Package management
 
 ### Additional Libraries & Tools
 
@@ -60,7 +60,7 @@ Based on the projects in this repository:
 Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (version 14.0 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 - [Git](https://git-scm.com/)
 
 ### Installation
